@@ -1,0 +1,26 @@
+/* Styles communs pour les formulaires */
+.form-wrapper {
+    max-width: 400px;
+    max-height: 500px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.form-wrapper h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+    text-align: center;
+}
+.btn-s{
+    background-color:  #33236b8b;
+}
+.form-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
